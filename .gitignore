@@ -3,3 +3,9 @@
 /Parking Lot/task/build/
 /Parking Lot/task/out/
 /Parking Lot/task/out/production/classes/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
